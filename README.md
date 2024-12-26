@@ -1,6 +1,6 @@
 # google_map
 
-A Flutter app integrating Google Maps for cross-platform (Android/iOS) support. Features include interactive maps, current location tracking, marker placement, and reverse geocoding to display addresses. Built using Dart, Flutter, Google Maps API, and optional GetX for state management. Requires location access for functionality.
+A Flutter project
 ## Getting Started
 
 This project is a starting point for a Flutter application.
